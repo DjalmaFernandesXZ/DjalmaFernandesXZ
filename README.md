@@ -1,8 +1,8 @@
 # Olá, eu sou o Djalma Fernandes! 👋
 
-### Análise de Dados · Ciência de Dados · Mercado Financeiro
+### Análise de Dados · Ciência de Dados · Contabilidade/Fiscal
 
-Sou de Recife, PE 🇧🇷 — Assistente Fiscal com experiência em Contabilidade e análise financeira, em transição para a área de Dados. Desenvolvo projetos pessoais de Ciência de Dados para construir soluções orientadas a negócio e dominar as ferramentas do mercado.
+Sou de Recife, PE 🇧🇷 — Formado em Contábilidade e atualmente Auxiliar Fiscal, em transição para a área de Dados. Desenvolvo projetos pessoais de Ciência de Dados para construir soluções orientadas a negócio e dominar as ferramentas do mercado.
 
 ---
 
